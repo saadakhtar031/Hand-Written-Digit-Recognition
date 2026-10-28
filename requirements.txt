@@ -1,7 +1,7 @@
-streamlit
-streamlit-drawable-canvas
+--extra-index-url https://download.pytorch.org/whl/cpu
 torch
-torchvision
-opencv-python-headless
+flask
+flask-cors
+gunicorn
 numpy
 pillow
